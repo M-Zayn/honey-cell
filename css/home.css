@@ -2120,9 +2120,6 @@ button {
     -webkit-transform: rotateY(180deg);
             transform: rotateY(180deg);
   }
-  .header {
-    margin: 0px 0 0 0;
-  }
   .header .owl-carousel .owl-nav {
     display: none;
   }
@@ -2139,7 +2136,7 @@ button {
     left: unset;
     -webkit-transform: unset;
             transform: unset;
-    margin: 15px 0 0 0;
+    margin: 25px 0 0 0;
   }
   .cats .zx-container {
     -ms-flex-wrap: wrap;
